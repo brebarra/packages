@@ -9,12 +9,12 @@ A clean, colour-customisable engineering report template for Typst. Designed for
 
 #show: breezy.with(
   semester: "Semester 1 2026",
-  courseCode: "ENGE500",
-  courseName: "Engineering Mathematics I",
+  course-code: "ENGE500",
+  course-name: "Engineering Mathematics I",
   title: "My Report: With an extended title",
-  studentID: "12345678",
+  student-id: "12345678",
   author: "Jane Smith",
-  accentColour: rgb("#300649"),
+  accent-colour: rgb("#300649"),
 )
 
 //Your content goes here
